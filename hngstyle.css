@@ -1,0 +1,53 @@
+*
+
+.container-fluid{
+	padding-right:0;
+   	padding-left:0;
+   	margin-right:auto;
+   	margin-left:auto
+}
+
+.imageBg {
+	background: #000000 !important;
+	
+}
+img {
+	position: absolute;
+	width: 100%;
+	height: 100%;
+}
+.content {
+	align-content: center;
+	margin-left: 30%;
+	margin-top: 10%;
+
+}
+.content1 {
+	align-content: center;
+	
+}
+.content2 {
+	align-items: center;
+	margin-top: 10%;
+	margin-left: 10%;
+}
+h1 {
+	position: absolute;
+	font-family: Roboto;
+	font-style: normal;
+	font-weight: lighter;
+	line-height: normal;
+	text-align: center;
+	font-size: 90px !important;
+	color: #FFFFFF !important;
+}
+h2 {
+	position: absolute;
+	font-family: Roboto;
+	font-style: normal;
+	font-weight: lighter;
+	line-height: normal;
+	text-align: center;
+	font-size: 30px !important;
+	color: #FFFFFF !important;
+}
